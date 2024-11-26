@@ -14,8 +14,8 @@ Sou o Paulo Moreira, bacharel em Engenharia Química e <strong>Cientista de Dado
 	<li>Python, Numpy, Pandas, Matplotlib, Scikit-Learn, Regress&atilde;o linear e Log&iacute;stica, &Aacute;rvores de Decis&atilde;o, Redes&nbsp;Neurais Artificiais, Ensemble de Modelos, Clusteriza&ccedil;&atilde;o: Kmeans e DBSCAN, Redu&ccedil;&atilde;o de&nbsp;&nbsp;Dimensionalidade: PCA e t-SNE, Detec&ccedil;&atilde;o de Anomalias com Isolation Forest, Tuning de Hiperpar&acirc;metros,&nbsp;&nbsp;Random Search e &nbsp;Grid Search, Otimiza&ccedil;&atilde;o Bayesiana, Oversampling e Undersampling, NLP, Vis&atilde;o&nbsp;&nbsp;Computacional.</li>
 	<li>API Open AI</li>
 	<li>Armazenamento e processamento de dados AWS</li>
-	<li>ETL com AWS Glue</li>
-	<li>Dashboards interativos com AWS Quicksight</li>
+	
+	
 </ul>
 
 ## 🗂️ Contato
