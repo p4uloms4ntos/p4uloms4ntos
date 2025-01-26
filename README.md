@@ -6,7 +6,7 @@ Sou o Paulo Moreira, bacharel em Engenharia Química e <strong>Cientista de Dado
  <ul>
 	<li>SQL;</li>
 	<li>Power BI;</li>
-	<li>Banco de Dados Relacionais;</li>
+	<li>Banco de Dados Relacionais e não Relacionais;</li>
 	<li>Excel para An&aacute;lise de Dados (Completo);</li>
 	<li>Estat&iacute;stica Descritiva: Classifica&ccedil;&atilde;o de Vari&aacute;veis, Medidas Resumo, Tabelas de Frequ&ecirc;ncia, Gr&aacute;ficos (Boxplot, Histograma entre outros), An&aacute;lise Bidimensional: Correla&ccedil;&atilde;o de Person, Information Value,&nbsp;&nbsp;Coeficiente de Determina&ccedil;&atilde;o, Correla&ccedil;&otilde;es Esp&uacute;rias;</li>
 	<li>Estat&iacute;stica Probabilidades: Teoria Cl&aacute;ssica, Teoria Frequentista, Teoria Axiom&aacute;tica, Distribui&ccedil;&atilde;o Uniforme,&nbsp;Binomial, Poisson e Gaussiana;</li>
