@@ -12,8 +12,10 @@ Sou o Paulo Moreira, bacharel em Engenharia Química e <strong>Cientista de Dado
 	<li>Estat&iacute;stica Probabilidades: Teoria Cl&aacute;ssica, Teoria Frequentista, Teoria Axiom&aacute;tica, Distribui&ccedil;&atilde;o Uniforme,&nbsp;Binomial, Poisson e Gaussiana;</li>
 	<li>Estat&iacute;stica Infer&ecirc;ncia: Estimadores M&eacute;dia, Propor&ccedil;&atilde;o e Vari&acirc;ncia, Teorema do Limite Central, Coeficiente&nbsp;de Confian&ccedil;a, Margem de Erro, Testes de Hip&oacute;teses (A/B), Regress&atilde;o Linear M&uacute;ltipla;</li>
 	<li>Python, Numpy, Pandas, Matplotlib, Scikit-Learn, Regress&atilde;o linear e Log&iacute;stica, &Aacute;rvores de Decis&atilde;o, Redes&nbsp;Neurais Artificiais, Ensemble de Modelos, Clusteriza&ccedil;&atilde;o: Kmeans e DBSCAN, Redu&ccedil;&atilde;o de&nbsp;&nbsp;Dimensionalidade: PCA e t-SNE, Detec&ccedil;&atilde;o de Anomalias com Isolation Forest, Tuning de Hiperpar&acirc;metros,&nbsp;&nbsp;Random Search e &nbsp;Grid Search, Otimiza&ccedil;&atilde;o Bayesiana, Oversampling e Undersampling, NLP, Vis&atilde;o&nbsp;&nbsp;Computacional.</li>
-	<li>API Open AI</li>
-	<li>Armazenamento e processamento de dados AWS</li>
+	<li>Streamlit</li>
+ 	<li>LangChain</li></li>	 
+	<li>Docker</li>
+ 	<li> AWS (EC2, S3) </li>
 	
 	
 </ul>
